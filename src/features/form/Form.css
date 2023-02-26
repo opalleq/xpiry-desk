@@ -1,0 +1,11 @@
+.form-block {
+    @apply flex mb-2;
+}
+
+.form-block label {
+    @apply w-32;
+}
+
+.form-block input, .form-block select {
+    @apply border ml-1;
+}
